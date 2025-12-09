@@ -1,0 +1,16 @@
+{
+    "init":{
+        "canvas_width":800,
+        "canvas_height":800
+    },
+    "main":{
+        "debug":true,
+        "background_color":[50,40,40],
+        "shape_color_2":[230,220,210],
+        "text_color_1":[250,250,250],
+        "text_size_1":24,
+        "graph_color_1":[250,220,100]
+    }
+}
+
+
